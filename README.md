@@ -279,6 +279,110 @@ _[⌨️  Summary](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-
 
 💻 Code: https://github.com/Cyfrin/zk-mixer-cu
 
+## Introduction
+
+_[⌨️  Introduction](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-mixer/introduction)_
+
+## Disclaimer
+
+_[⌨️  Disclaimer](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-mixer/disclaimer)_
+
+## Tornado Cash
+
+_[⌨️  Tornado Cash](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-mixer/tornado-cash)_
+
+## Creating the Mixer Contract
+
+_[⌨️  Creating the Mixer Contract](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-mixer/creatingthe-mixer-contract)_
+
+## Creating the IMT Contract 
+
+_[⌨️  Creating the IMT Contract](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-mixer/creating-the-imt-contract)_
+
+## Zero Subtrees
+
+_[⌨️  Zero Subtrees](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-mixer/zero-subtrees)_
+
+## Inserting a Leaf
+
+_[⌨️  Inserting a Leaf](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-mixer/inserting-a-leaf)_
+
+## Finishing Deposit
+
+_[⌨️  Finishing Deposit](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-mixer/finishing-deposit)_
+
+## Nullifier Hash
+
+_[⌨️  Nullifier Hash](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-mixer/nullifier-hash)_
+
+## Circuit Inputs
+
+_[⌨️  Circuit Inputs](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-mixer/circuit-inputs)_
+
+## Circuit Logic
+
+_[⌨️  Circuit Logic](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-mixer/circuit-logic)_
+
+## Generate Verifier
+
+_[⌨️  Generate Verifier](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-mixer/generate-verifier)_
+
+## Finish Withdraw
+
+_[⌨️  Finish Withdraw](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-mixer/finish-withdraw)_
+
+## Historical Roots
+
+_[⌨️  Historical Roots](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-mixer/historical-roots)_
+
+## Mid way Summary
+
+_[⌨️  Mid way Summary](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-mixer/mid-way-summary)_
+
+## Building the Project
+
+_[⌨️  Building the Project](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-mixer/building-the-project)_
+
+## Setting up the tests
+
+_[⌨️  Setting up the tests](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-mixer/setting-up-the-tests)_
+
+## Generate the Commitment
+
+_[⌨️  Generate the Commitment](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-mixer/generate-the-commitment)_
+
+## Testing Making a Deposit
+
+_[⌨️  Testing Making a Deposit](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-mixer/testing-making-a-deposit)_
+
+## Creating the Proof Helper Function
+
+_[⌨️  Creating the Proof Helper Function](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-mixer/creating-the-proof-helper-function)_
+
+## Generate Proof Script
+
+_[⌨️  Generate Proof Script](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-mixer/generate-proof-script)_
+
+## Finish Withdraw Test
+
+_[⌨️  Finish Withdraw Test](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-mixer/finish-withdraw-test)_
+
+## Reentrancy
+
+_[⌨️  Reentrancy](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-mixer/reentrancy)_
+
+## Unused Circuit Inputs
+
+_[⌨️  unused-circuit-inputs](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-mixer/unused-circuit-inputs)_
+
+## NATSPEC
+
+_[⌨️  NATSPEC](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-mixer/natspec)_
+
+## Summary
+
+_[⌨️  Summary](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-mixer/summary)_
+
 # References
 
 The following resources were consulted in creating this course:
