@@ -168,6 +168,8 @@ _[⌨️  Assert and Test Functions](https://updraft.cyfrin.io/courses/developer
 
 _[⌨️  Creating and Verifying a Proof Off-chain](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-ecrecover/creating-and-verifying-a-proof-off-chain)_
 
+- [Let Twitter/X know about your first circuit!](https://twitter.com/intent/post?text=I%20just%20created%20my%20first%20ZK%20circuit%20using%20%40NoirLang!%0A%0AThanks%20%40CiaraNightingal%20and%20%40CyfrinUpdraft)
+
 ## Using Dependencies in Noir
 
 _[⌨️  Using Dependencies in Noir](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-ecrecover/using-dependencies-in-noir)_
