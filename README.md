@@ -4,16 +4,16 @@
 > 
 > [Moccasin/Vyper: https://github.com/Cyfrin/moccasin-full-course-cu](https://github.com/Cyfrin/moccasin-full-course-cu)
 
-[contributors-shield]: https://img.shields.io/github/contributors/cyfrin/noir-zk-circuit-developer-cu.svg?style=for-the-badge
-[contributors-url]: https://github.com/cyfrin/noir-zk-circuit-developer-cu/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/cyfrin/noir-zk-circuit-developer-cu.svg?style=for-the-badge
-[forks-url]: https://github.com/cyfrin/noir-zk-circuit-developer-cu/network/members
-[stars-shield]: https://img.shields.io/github/stars/cyfrin/noir-zk-circuit-developer-cu.svg?style=for-the-badge
-[stars-url]: https://github.com/cyfrin/noir-zk-circuit-developer-cu/stargazers
-[issues-shield]: https://img.shields.io/github/issues/cyfrin/noir-zk-circuit-developer-cu.svg?style=for-the-badge
-[issues-url]: https://github.com/cyfrin/noir-zk-circuit-developer-cu/issues
-[license-shield]: https://img.shields.io/github/license/cyfrin/noir-zk-circuit-developer-cu.svg?style=for-the-badge
-[license-url]: https://github.com/cyfrin/noir-zk-circuit-developer-cu/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/cyfrin/developer-zk-circuits-with-noir-cu.svg?style=for-the-badge
+[contributors-url]: https://github.com/cyfrin/developer-zk-circuits-with-noir-cu/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/cyfrin/developer-zk-circuits-with-noir-cu.svg?style=for-the-badge
+[forks-url]: https://github.com/cyfrin/developer-zk-circuits-with-noir-cu/network/members
+[stars-shield]: https://img.shields.io/github/stars/cyfrin/developer-zk-circuits-with-noir-cu.svg?style=for-the-badge
+[stars-url]: https://github.com/cyfrin/developer-zk-circuits-with-noir-cu/stargazers
+[issues-shield]: https://img.shields.io/github/issues/cyfrin/developer-zk-circuits-with-noir-cu.svg?style=for-the-badge
+[issues-url]: https://github.com/cyfrin/developer-zk-circuits-with-noir-cu/issues
+[license-shield]: https://img.shields.io/github/license/cyfrin/developer-zk-circuits-with-noir-cu.svg?style=for-the-badge
+[license-url]: https://github.com/cyfrin/developer-zk-circuits-with-noir-cu/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 
 <div align="center">
@@ -31,16 +31,16 @@
     <br />
     <a href="https://cyfrin.io/">
         <img src=".github/images/poweredbycyfrinbluehigher.png" width="145" alt=""/></a>
-<a href="https://updraft.cyfrin.io/courses/noir-zk-circuit-developer">
+<a href="https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir">
         <img src=".github/images/coursebadge.png" width="242.3" alt=""/></a>
     <br />
 </p>
 
-Welcome to the repository for the Noir ZK Circuit Developer Course
+Welcome to the repository for the Noir Circuit Development Course
 
 </div>
 
-This repository houses course resources and [discussions](https://github.com/Cyfrin/noir-zk-circuit-developer-cu/discussions) for the course.
+This repository houses course resources and [discussions](https://github.com/Cyfrin/develop-zk-circuits-with-noir-cu/discussions) for the course.
 
 Please refer to this for an in-depth explanation of the content:
 
@@ -65,15 +65,20 @@ Please refer to this for an in-depth explanation of the content:
 
 Cyfrin Updraft Courses:
 
-- [Cyfrin Updraft - Noir ZK Circuit Developer](https://updraft.cyfrin.io/courses/noir-zk-circuit-developer)
+- [Cyfrin Updraft - Develop ZK Circuits with Noir ](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir)
 
 [YouTube Link]()
 
-## Recommended Tools
-
-- Recommended Testnet: Sepolia
+# Disclaimer 
 
 > ⚠️ All code associated with this course is for demo purposes only. They have not been audited and should not be considered production ready. Please use at your own risk.
+
+The following content is provided strictly for educational purposes. This course demonstrates how privacy-preserving smart contracts like mixers work under the hood using zero-knowledge proofs.
+It is not intended to promote or encourage the use of privacy tools for illicit activity.
+We do not condone the violation of any laws or regulations. Please ensure you comply with your local laws when building or deploying smart contracts.
+
+By continuing with this course, you acknowledge that the code and concepts shared are for learning only, and you accept full responsibility for how you use them.
+
 
 # Resources For This Course
 
@@ -84,7 +89,7 @@ Cyfrin Updraft Courses:
     - Like ChatGPT, but it searches the web
   - [Bard](https://bard.google.com/)
   - [Other AI extensions](https://twitter.com/aisolopreneur/status/1654823630155464704?s=42&t=-pu_sCYtfrfPJU7OXfifrQ)
-- [Github Discussions](https://github.com/Cyfrin/noir-zk-circuit-developer-cu/discussions)
+- [Github Discussions](https://github.com/Cyfrin/developer-zk-circuits-with-noir-cu/discussions)
   - Ask questions and chat about the course here!
 - [Stack Exchange Ethereum](https://ethereum.stackexchange.com/)
   - Great place for asking technical questions about Ethereum
@@ -93,15 +98,15 @@ Cyfrin Updraft Courses:
 - [Cookbook](./cookbook-listings.md)
   - A smart contract registry and co-pilot
 
-# Noir ZK Circuit Developer Section 1: Welcome to Noir
+# Section 1: Welcome to Noir
 
-_[⌨️  Welcome to Noir](https://updraft.cyfrin.io/courses/noir-zk-circuit-developer/welcome-to-noir/course-introduction)_
+_[⌨️  Welcome to Noir](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/welcome-to-noir/course-introduction)_
 
 - Add resources here
 
-## {{LESSON_1_TITE}}
+## Course Introduction
 
-_[⌨️  Course Introduction](https://updraft.cyfrin.io/courses/noir-zk-circuit-developer/welcome-to-noir/course-introduction)_
+_[⌨️  Course Introduction](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/welcome-to-noir/course-introduction)_
 
 # Disclosures
 
@@ -119,15 +124,15 @@ Thanks to everyone who is taking, participating in, and working on this course. 
 
 And thanks to the [Cyfrin](https://www.cyfrin.io/) team for making this possible!
 
-<a href="https://github.com/cyfrin/noir-zk-circuit-developer-cu/graphs/contributors">
+<a href="https://github.com/cyfrin/developer-zk-circuits-with-noir-cu/graphs/contributors">
 
-<img src="https://contrib.rocks/image?repo=cyfrin/noir-zk-circuit-developer-cu" />
+<img src="https://contrib.rocks/image?repo=cyfrin/developer-zk-circuits-with-noir-cu" />
 
 </a>
 
 ## License
 
-Cyfrin Updraft content is open-sourced [licensed as GPLv3](https://github.com/cyfrin/noir-zk-circuit-developer-cu/blob/main/LICENSE).
+Cyfrin Updraft content is open-sourced [licensed as GPLv3](https://github.com/cyfrin/developer-zk-circuits-with-noir-cu/blob/main/LICENSE).
 
 [![Cyfrin Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cyfrinupdraft)
 [![Cyfrin YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CyfrinAudits)
