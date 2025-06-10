@@ -100,13 +100,196 @@ By continuing with this course, you acknowledge that the code and concepts share
 
 # Section 1: Welcome to Noir
 
-_[⌨️  Welcome to Noir](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/welcome-to-noir/course-introduction)_
+## Welcome
 
-- Add resources here
+_[⌨️  Welcome](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/welcome-to-noir/welcome)_
 
-## Course Introduction
+## Introduction and Prerequisites
 
-_[⌨️  Course Introduction](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/welcome-to-noir/course-introduction)_
+_[⌨️  Introduction and Prerequisites](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/welcome-to-noir/introduction-and-prerequisites)_
+
+## Meet the Instructor
+
+_[⌨️  Meet the Instructor](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/welcome-to-noir/meet-the-instructor)_
+
+## Why take this Course
+
+_[⌨️  Why take this Course](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/welcome-to-noir/why-take-this-course)_
+
+## Course Navigation
+
+_[⌨️  Course Naviagation](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/welcome-to-noir/course-navigation)_
+
+# Section 2: ZK ECRecover
+
+💻 Code: https://github.com/Cyfrin/zk-ecrecover-cu
+
+## Intro to Noir
+
+_[⌨️  Intro to Noir](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-ecrecover/intro-to-noir)_
+
+- [Noir documentation](https://noir-lang.org/docs)
+
+## Noir Architecture
+
+_[⌨️  Noir Architecture](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-ecrecover/noir-architecture)_
+
+## ZK Protocol Architecture
+
+_[⌨️  ZK Protocol Architecture](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-ecrecover/zk-protocol-architecture)_
+
+## Nargo and Barretenberg Installation
+
+_[⌨️  Nargo and Barretenberg Installation](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-ecrecover/nargo-and-barretenberg-installation)_
+
+- [Barretenberg Repo and Docs](https://github.com/AztecProtocol/aztec-packages/tree/master/barretenberg)
+
+## Creating a Noir Project
+
+_[⌨️  Creating a Noir Project](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-ecrecover/creating-a-noir-project)_
+
+## Noir Project Types and Layout
+
+_[⌨️  Noir Project Types and Layout](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-ecrecover/noir-project-types-and-layout)_
+
+- [Noir crate types](https://noir-lang.org/docs/noir/modules_packages_crates/crates_and_packages)
+
+## Noir Data Types
+
+_[⌨️  Noir Data Types](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-ecrecover/noir-data-types)_
+
+- [Noir Data types](https://noir-lang.org/docs/noir/concepts/data_types)
+
+## Assert and Test Functions
+
+_[⌨️  Assert and Test Functions](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-ecrecover/assert-and-test-functions)_
+
+## Creating and Verifying a Proof Off-chain
+
+_[⌨️  Creating and Verifying a Proof Off-chain](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-ecrecover/creating-and-verifying-a-proof-off-chain)_
+
+## Using Dependencies in Noir
+
+_[⌨️  Using Dependencies in Noir](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-ecrecover/using-dependencies-in-noir)_
+
+- [ECRecover repo](https://github.com/colinnielsen/ecrecover-noir)
+
+## Writing a Signature Verification Circuit
+
+_[⌨️  Writing a Signature Verification Circuit](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-ecrecover/writing-a-signature-verification-circuit)_
+
+## Creating the Noir ECDSA Inputs
+
+_[⌨️  Creating the Noir ECDSA Inputs](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-ecrecover/creating-noir-ecdsa-inputs)_
+
+## ECDSA Proof and Verifier Contract 
+
+_[⌨️  ECDSA Proof and Verifier Contract ](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-ecrecover/ecdsa-proof-and-verifier-contract)_
+
+## Noir ECDSA Summary 
+
+_[⌨️  Noir ECDSA Summary ](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-ecrecover/noir-ecdsa-summary)_
+
+# Section 3: ZK Panagram App
+
+💻 Code: https://github.com/Cyfrin/zk-panagram-cu
+
+## Introduction
+
+_[⌨️  Introduction](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-panagram-app/introduction)_
+
+## Panagram Project Walkthrough
+
+_[⌨️  Panagram Project Walkthrough](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-panagram-app/panagram-project-walkthrough)_
+
+## Creating the Panagram Circuit
+
+_[⌨️  Creating the Panagram Circuit](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-panagram-app/creating-the-panagram-circuit)_
+
+## Panagram Contract Setup
+
+_[⌨️  Panagram Contract Setup](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-panagram-app/panagram-contract-setup)_
+
+## Inhertiting ERC-1155
+
+_[⌨️  Inhertiting ERC-1155](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-panagram-app/inhertiting-erc-1155)_
+
+- [Advanced Foundry NFT Section](https://updraft.cyfrin.io/courses/advanced-foundry/how-to-create-an-NFT-collection/introduction-to-nfts)
+
+## Setting the Verifier Contract
+
+_[⌨️  Setting the Verifier Contract](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-panagram-app/setting-the-verifier-contract)_
+
+## Writing the Panagram Contract Functions
+
+_[⌨️  Writing the Panagram Contract Functions](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-panagram-app/writing-the-panagram-contract-functions)_
+
+## Compiling the Panagram Contract
+
+_[⌨️  Compiling the Panagram Contract](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-panagram-app/compiling-the-panagram-contract)_
+
+## Starting the Tests
+
+_[⌨️  Starting the Tests](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-panagram-app/starting-the-tests)_
+
+- [Modular Arithmetic Video](https://www.youtube.com/watch?v=mBDaDGBOu-E)
+- [Field Video](https://www.youtube.com/watch?v=7XNnds4JKZw)
+
+## Running Scripts in Forge Tests
+
+_[⌨️  Running Scripts in Forge Tests](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-panagram-app/running-scripts-in-forge-tests)_
+
+## Setting up the Generate Proof Script
+
+_[⌨️  Setting up the Generate Proof Script](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-panagram-app/setting-up-the-generate-proof-script)_
+
+## Get Proof Function
+
+_[⌨️  Get Proof Function](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-panagram-app/get-proof-function)_
+
+## Writing the Proof Script
+
+_[⌨️  Writing the Proof Script](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-panagram-app/writing-the-proof-script)_
+
+## Finishing the Tests
+
+_[⌨️  Finishing the Tests](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-panagram-app/finishing-the-tests)_
+
+## Panagram Recap
+
+_[⌨️  Panagram Recap](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-panagram-app/panagram-recap)_
+
+## Frontend Walkthrough
+
+_[⌨️  Frontend Walkthrough](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-panagram-app/frontend-walkthrough)_
+
+## Fixing Bugs
+
+_[⌨️  Fixing Bugs](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-panagram-app/fixing-bugs)_
+
+- [Keccak dependency](https://github.com/noir-lang/keccak256)
+
+## Summary
+
+_[⌨️  Summary](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-panagram-app/summary)_
+
+# Section 4: ZK Mixer
+
+💻 Code: https://github.com/Cyfrin/zk-mixer-cu
+
+# References
+
+The following resources were consulted in creating this course:
+
+- [Noir Documentation](https://noir-lang.org/docs)
+- [Porter's live stream on Tornado Cash](https://www.youtube.com/live/jGmvJZ7m7WU)
+- [Rare skills article](https://www.rareskills.io/post/how-does-tornado-cash-work)
+- [Artem Chystiakov's article](https://medium.com/distributed-lab/cartesian-merkle-tree-the-new-breed-a30b005ecf27)
+- [Smart Contract Programmer's video](https://www.youtube.com/watch?v=z_cRicXX1jI)
+- https://www.researchgate.net/figure/Example-of-the-Tornado-Cash-1-ETH-pool-addresses-A-through-F-deposit-to-and-withdraw_fig1_357925591
+- [Krishang's Tornado Cash Rebuilt Repo](https://github.com/nkrishang/tornado-cash-rebuilt/tree/main)
+- [The Tornado Cash codebase](https://github.com/tornadocash)
+- [Cat Mcgee's Private Peace Hackathon Project](https://github.com/catmcgee/the-private-peace-project/tree/master)
 
 # Disclosures
 
