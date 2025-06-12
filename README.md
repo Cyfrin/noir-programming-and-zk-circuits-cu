@@ -188,7 +188,7 @@ _[⌨️  Creating the Noir ECDSA Inputs](https://updraft.cyfrin.io/courses/noir
 
 _[⌨️  ECDSA Proof and Verifier Contract ](https://updraft.cyfrin.io/courses/noir-programming-and-zk-circuits/zk-ecrecover/ecdsa-proof-and-verifier-contract)_
 
-## Noir ECDSA Summary 
+## Noir ECDSA Summary 
 
 _[⌨️  Noir ECDSA Summary ](https://updraft.cyfrin.io/courses/noir-programming-and-zk-circuits/zk-ecrecover/noir-ecdsa-summary)_
 
