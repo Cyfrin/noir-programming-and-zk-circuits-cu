@@ -265,6 +265,8 @@ _[⌨️  Panagram Recap](https://updraft.cyfrin.io/courses/developer-zk-circuit
 
 _[⌨️  Frontend Walkthrough](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-panagram-app/frontend-walkthrough)_
 
+- [Front-end course](https://updraft.cyfrin.io/courses/full-stack-web3-development-crash-course)
+
 ## Fixing Bugs
 
 _[⌨️  Fixing Bugs](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-panagram-app/fixing-bugs)_
@@ -291,6 +293,14 @@ _[⌨️  Disclaimer](https://updraft.cyfrin.io/courses/developer-zk-circuits-wi
 
 _[⌨️  Tornado Cash](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-mixer/tornado-cash)_
 
+- [Porter's live stream on Tornado Cash](https://www.youtube.com/live/jGmvJZ7m7WU)
+- [Rare skills article](https://www.rareskills.io/post/how-does-tornado-cash-work)
+- [Artem Chystiakov's article](https://medium.com/distributed-lab/cartesian-merkle-tree-the-new-breed-a30b005ecf27)
+- [Smart Contract Programmer's video](https://www.youtube.com/watch?v=z_cRicXX1jI)
+- https://www.researchgate.net/figure/Example-of-the-Tornado-Cash-1-ETH-pool-addresses-A-through-F-deposit-to-and-withdraw_fig1_357925591
+- [Krishang's Tornado Cash Rebuilt Repo](https://github.com/nkrishang/tornado-cash-rebuilt/tree/main)
+- [The Tornado Cash codebase](https://github.com/tornadocash)
+
 ## Creating the Mixer Contract
 
 _[⌨️  Creating the Mixer Contract](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-mixer/creatingthe-mixer-contract)_
@@ -303,9 +313,15 @@ _[⌨️  Creating the IMT Contract](https://updraft.cyfrin.io/courses/developer
 
 _[⌨️  Zero Subtrees](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-mixer/zero-subtrees)_
 
+- [Modular Arithmetic Video](https://www.youtube.com/watch?v=mBDaDGBOu-E)
+- [Field Video](https://www.youtube.com/watch?v=7XNnds4JKZw)
+- [Poseidon in Solidity by zemse](https://github.com/zemse/poseidon2-evm)
+
 ## Inserting a Leaf
 
 _[⌨️  Inserting a Leaf](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-mixer/inserting-a-leaf)_
+
+- [Poseidon in Solidity by zemse](https://github.com/zemse/poseidon2-evm)
 
 ## Finishing Deposit
 
@@ -322,6 +338,8 @@ _[⌨️  Circuit Inputs](https://updraft.cyfrin.io/courses/developer-zk-circuit
 ## Circuit Logic
 
 _[⌨️  Circuit Logic](https://updraft.cyfrin.io/courses/developer-zk-circuits-with-noir/zk-mixer/circuit-logic)_
+
+- [Poseidon Noir Dependency (if using noir@v1.0.0-beta-6)](https://github.com/noir-lang/poseidon)
 
 ## Generate Verifier
 
