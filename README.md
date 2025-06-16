@@ -118,7 +118,7 @@ _[⌨️  Why take this Course](https://updraft.cyfrin.io/courses/noir-programmi
 
 ## Course Navigation
 
-_[⌨️  Course Naviagation](https://updraft.cyfrin.io/courses/noir-programming-and-zk-circuits/welcome-to-noir/course-navigation)_
+_[⌨️  Course Navigation](https://updraft.cyfrin.io/courses/noir-programming-and-zk-circuits/welcome-to-noir/course-navigation)_
 
 # Section 2: ZK ECRecover
 
@@ -212,9 +212,9 @@ _[⌨️  Creating the Panagram Circuit](https://updraft.cyfrin.io/courses/noir-
 
 _[⌨️  Panagram Contract Setup](https://updraft.cyfrin.io/courses/noir-programming-and-zk-circuits/zk-panagram-app/panagram-contract-setup)_
 
-## Inhertiting ERC-1155
+## Inherititing ERC-1155
 
-_[⌨️  Inhertiting ERC-1155](https://updraft.cyfrin.io/courses/noir-programming-and-zk-circuits/zk-panagram-app/inhertiting-erc-1155)_
+_[⌨️  Inherititing ERC-1155](https://updraft.cyfrin.io/courses/noir-programming-and-zk-circuits/zk-panagram-app/inhertiting-erc-1155)_
 
 - [Advanced Foundry NFT Section](https://updraft.cyfrin.io/courses/advanced-foundry/how-to-create-an-NFT-collection/introduction-to-nfts)
 
